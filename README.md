@@ -6,12 +6,12 @@ Hello! This is where Harry and David will put the material for BCP. It will be u
 
 0. [Introduction And Tidy Code](#00-introduction-and-tidy-code)
 1. [Loops And Debugging](#01-loops-and-debugging)
-2. [Coercion And Truthiness](#02-coercion-and-truthiness) 
-P1. [Project 1: Caesar Cypher](#P1-caesar-cypher)<br/>
+2. [Coercion And Truthiness](#02-coercion-and-truthiness)<br/>
+P1. [Project 1: Caesar Cypher](#P1-caesar-cypher)
 3. [Scope](#03-scope)
 4. [Arrays I](#04-arrays-i)
-5. [Arrays II](#05-arrays-ii)
-P2. [Project 2: Sudoku Validator](#P2-sudoku-validator)<br/>
+5. [Arrays II](#05-arrays-ii)<br/>
+P2. [Project 2: Sudoku Validator](#P2-sudoku-validator)
 6. [Recursion I](#06-recursion-i)
 7. [Recursion II](#07-recursion-ii)
 
