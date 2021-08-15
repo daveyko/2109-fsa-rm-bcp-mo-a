@@ -7,20 +7,20 @@ Hello! This is where Harry and David will put the material for BCP. It will be u
 0. [Introduction And Tidy Code](#00-introduction-and-tidy-code)
 1. [Loops And Debugging](#01-loops-and-debugging)
 2. [Coercion And Truthiness](#02-coercion-and-truthiness) 
-P1. [Project 1: Caesar Cypher](#P1-caesar-cypher)
+P1. [Project 1: Caesar Cypher](#P1-caesar-cypher)<br/>
 3. [Scope](#03-scope)
 4. [Arrays I](#04-arrays-i)
 5. [Arrays II](#05-arrays-ii)
-P2. [Project 2: Sudoku Validator](#P2-sudoku-validator) 
+P2. [Project 2: Sudoku Validator](#P2-sudoku-validator)<br/>
 6. [Recursion I](#06-recursion-i)
 7. [Recursion II](#07-recursion-ii)
 
 Optional Lectures:
 
-5-A. [Objects](#06-objects) 
-5-B. [Object Methods](#07-object-methods) 
-5-C. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference) 
-5-D. [Higher-Order Functions I](#09-higher-order-functions-i) 
+5-A. [Objects](#06-objects)<br/>
+5-B. [Object Methods](#07-object-methods)<br/>
+5-C. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference)<br/>
+5-D. [Higher-Order Functions I](#09-higher-order-functions-i)<br/>
 5-E. [Higher-Order Functions II](#09-higher-order-functions-ii)
 
 ## Additional Resources
