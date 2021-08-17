@@ -12,16 +12,17 @@ P1. [Project 1: Caesar Cypher](#P1-caesar-cypher)
 4. [Arrays I](#04-arrays-i)
 5. [Arrays II](#05-arrays-ii)<br/>
 P2. [Project 2: Sudoku Validator](#P2-sudoku-validator)
-6. [Recursion I](#06-recursion-i)
-7. [Recursion II](#07-recursion-ii)
+6. [Objects](#06-objects)
+7. [Recursion I](#07-recursion-i)
+8. [Recursion II](#08-recursion-ii)
+9. [Last Steps](#09-last-steps)
 
 Optional Lectures:
 
-5-A. [Objects](#06-objects)<br/>
-5-B. [Object Methods](#07-object-methods)<br/>
-5-C. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference)<br/>
-5-D. [Higher-Order Functions I](#09-higher-order-functions-i)<br/>
-5-E. [Higher-Order Functions II](#09-higher-order-functions-ii)
+5-A. [Object Methods](#07-object-methods)<br/>
+5-B. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference)<br/>
+5-C. [Higher-Order Functions I](#09-higher-order-functions-i)<br/>
+5-D. [Higher-Order Functions II](#09-higher-order-functions-ii)
 
 ## Additional Resources
 
@@ -58,7 +59,9 @@ Optional Lectures:
 
 [Tidy Code Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/a0B7-jy5OvY)**
+
+**[Live Review](https://youtu.be/w547htSLqDc)**
 
 ### Notes
 
@@ -71,6 +74,8 @@ Optional Lectures:
 [Loops Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
 [Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/R9rYnk65dyg)**
 
