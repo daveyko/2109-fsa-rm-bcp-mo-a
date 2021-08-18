@@ -1,4 +1,4 @@
-# 2107-FSA-RM-BCP-WK-A
+# 2108-FSA-RM-BCP-MO-B
 
 Hello! This is where Harry and David will put the material for BCP. It will be updated after every class. If any of the links don't work don't hesitate to slack message and let us know.
 
@@ -75,11 +75,9 @@ Optional Lectures:
 
 [Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/R9rYnk65dyg)** (old)
 
-**[Live Lecture](https://youtu.be/R9rYnk65dyg)**
-
-**[Live Review](https://youtu.be/NbaYSHNKt2Q)**
+**[Live Review](https://youtu.be/NbaYSHNKt2Q)** (old)
 
 ### Notes
 
@@ -98,6 +96,8 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/landing)
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/T1yjWhc0GeI)**
 
