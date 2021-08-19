@@ -97,27 +97,28 @@ Optional Lectures:
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/F2bCaeR7Mb4)**
 
-**[Live Lecture](https://youtu.be/T1yjWhc0GeI)**
-
-**[Live Review](https://youtu.be/PtCDWktD5SE)**
+**[Live Review](https://youtu.be/1j5pJfoT-qk)**
 
 ### Notes
 
 * [Truthiness & Types Solutions w/ Harry](https://codepen.io/collection/dbGwdN)
 * [Alternative Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO)
+* [2108 Solutions w/ Harry](https://codepen.io/collection/aMbxkb)
 * [Extra Credit](03-type-coercion-and-truthiness/extra-credit.js)
 
 ## **P1 Caesar Cypher**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/landing)
 
+[Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
+
+<!--
+
 **[Live Lecture](https://youtu.be/nRSler1WJbs)**
 
 **[Live Review](https://youtu.be/5z-DetUEoUs)**
-
-[Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
 ### Notes
 
