@@ -114,11 +114,9 @@ Optional Lectures:
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/nRSler1WJbs)** (old)
 
-**[Live Lecture](https://youtu.be/nRSler1WJbs)**
-
-**[Live Review](https://youtu.be/5z-DetUEoUs)**
+**[Live Review](https://youtu.be/7Geko1AcmME)**
 
 ### Notes
 
@@ -126,12 +124,15 @@ Optional Lectures:
 * [Harry's solutions](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
 * [vowelCount solution](https://codepen.io/habst/pen/BaWpYGy)
 * [Harry's Caesar Cypher Decoder](https://codepen.io/habst/pen/xxqdyQd)
+* [Alternative Review Video](https://youtu.be/5z-DetUEoUs)
 
 ## **03 Scope**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
 [Lecture Slides](05-scope/05_Scope.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/Tc8QIuj7oAg)**
 
