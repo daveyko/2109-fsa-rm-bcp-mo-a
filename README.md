@@ -132,15 +132,14 @@ Optional Lectures:
 
 [Lecture Slides](05-scope/05_Scope.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/ptUCDdgz6_g)**
 
-**[Live Lecture](https://youtu.be/Tc8QIuj7oAg)**
-
-**[Live Review](https://youtu.be/2OwyJEkPbII)**
+**[Live Review](https://youtu.be/hk2mv6ERPIY)**
 
 ### Notes
 
-* [Our Solutions](https://codepen.io/collection/RzPvwy)
+* [2108 Solutions](https://codepen.io/collection/VYrYeZ)
+* [Other Solutions](https://codepen.io/collection/RzPvwy)
 * [Alt Solutions](https://codepen.io/collection/jbOGQz)
 
 [Full Notes](05-scope)
@@ -158,6 +157,8 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/7wqXMlE-U7w)**
 
