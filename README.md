@@ -75,9 +75,9 @@ Optional Lectures:
 
 [Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
 
-**[Live Lecture](https://youtu.be/R9rYnk65dyg)** (old)
+**[Live Lecture](https://youtu.be/R9rYnk65dyg)** (prior cohort)
 
-**[Live Review](https://youtu.be/NbaYSHNKt2Q)** (old)
+**[Live Review](https://youtu.be/NbaYSHNKt2Q)** (prior cohort)
 
 ### Notes
 
@@ -114,7 +114,7 @@ Optional Lectures:
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-**[Live Lecture](https://youtu.be/nRSler1WJbs)** (old)
+**[Live Lecture](https://youtu.be/nRSler1WJbs)** (prior cohort)
 
 **[Live Review](https://youtu.be/7Geko1AcmME)**
 
@@ -158,11 +158,9 @@ Optional Lectures:
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/7wqXMlE-U7w)** (prior cohort)
 
-**[Live Lecture](https://youtu.be/7wqXMlE-U7w)**
-
-**[Live Review](https://youtu.be/FKe9FXXkAgI)**
+**[Live Review](https://youtu.be/FKe9FXXkAgI)** (prior cohort)
 
 ### Notes
 
@@ -193,13 +191,14 @@ Optional Lectures:
 
 [Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
 
-**[Live Lecture](https://youtu.be/0wzYAM9yafE)**
+**[Live Lecture](https://youtu.be/cQx124MPZPY)**
 
-**[Live Review](https://youtu.be/ubveNKESrG8)**
+**[Live Review](https://youtu.be/pzzvjl8cRE4)**
 
 ### Notes
 
-* [Our Arrays II solutions](https://codepen.io/collection/KpwZqv)
+* [2108 Arrays II solutions](https://codepen.io/collection/wawBWZ)
+* [2107 Arrays II solutions](https://codepen.io/collection/KpwZqv)
 * [Harry's Other Arrays II solutions](https://codepen.io/collection/kNNxwj)
 
 ## **P2 Sudoku Validator**
@@ -207,6 +206,8 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/landing)
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/5efTyma0UvM)**
 
