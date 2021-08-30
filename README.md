@@ -158,7 +158,7 @@ Optional Lectures:
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
 
-**[Live Lecture](https://youtu.be/7wqXMlE-U7w)** (prior cohort)
+**[Live Lecture](https://youtu.be/i-AU0ZV4zi4)**
 
 **[Live Review](https://youtu.be/FKe9FXXkAgI)** (prior cohort)
 
@@ -207,21 +207,22 @@ Optional Lectures:
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-<!--
-
 **[Live Lecture](https://youtu.be/5efTyma0UvM)**
 
 **[Review](https://youtu.be/q8zFfPfdKmQ)**
 
 ### Notes
 
-[Our Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
+* [Test Specs](https://codepen.io/habst/pen/RwozgPX?editors=0010)
+* [Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
 
 ## **06 Objects**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/landing)
 
 [Lecture Slides](09-objects/09_Objects.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/s8zRSuA3geA)**
 
