@@ -19,10 +19,10 @@ P2. [Project 2: Sudoku Validator](#P2-sudoku-validator)
 
 Optional Lectures:
 
-5-A. [Object Methods](#07-object-methods)<br/>
-5-B. [Pass by Value Pass by Reference](#08-pass-by-value-pass-by-reference)<br/>
-5-C. [Higher-Order Functions I](#09-higher-order-functions-i)<br/>
-5-D. [Higher-Order Functions II](#09-higher-order-functions-ii)
+6-A. [Object Methods](#6-a-object-methods)<br/>
+6-B. [Pass by Value Pass by Reference](#6-b-pass-by-value-pass-by-reference)<br/>
+6-C. [Higher-Order Functions I](#6-c-higher-order-functions-i)<br/>
+6-D. [Higher-Order Functions II](#6-d-higher-order-functions-ii)
 
 ## Additional Resources
 
@@ -222,15 +222,14 @@ Optional Lectures:
 
 [Lecture Slides](09-objects/09_Objects.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/cCI333nlczw)**
 
-**[Live Lecture](https://youtu.be/s8zRSuA3geA)**
-
-**[Extra review](https://www.youtube.com/watch?v=zmiCx3MrUow)**
+**[Live review](https://youtu.be/PeB8zyXqnW0)**
 
 ### General Notes
 
-* [Our Solutions](https://codepen.io/collection/GopLQk)
+* [2108 Solutions](https://codepen.io/collection/KpKkEN)
+* [2107 Solutions](https://codepen.io/collection/GopLQk)
 * [Harry's Other Solutions](https://codepen.io/collection/rxxzRR)
 
 [Full Notes](09-objects)
@@ -249,7 +248,7 @@ Optional Lectures:
 12. [Nested Arrays](09-objects/L-nested-arr.js)
 13. [Nested Objects](09-objects/M-nested-obj.js)
 
-## **07 Object Methods**
+## **6-A Object Methods**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60edce749b1b37000428c05b/landing)
 
@@ -268,7 +267,7 @@ Optional Lectures:
 3. [this](09-objects/P-this.js)
 4. [Workshop Questions & Solutions](09-objects/Q-object-methods-workshop-and-solutions-links.md)
 
-## **08 Pass By Value Pass By Reference**
+## **6-B Pass By Value Pass By Reference**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60ef4935719b7f00044056b8/landing)
 
@@ -282,7 +281,7 @@ Optional Lectures:
 
 * [Our solutions](https://codepen.io/collection/LPYKzo)
 
-## **09 Higher Order Functions I**
+## **6-C Higher Order Functions I**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60f06d9bd48d220004de001d/landing)
 
@@ -296,7 +295,7 @@ Optional Lectures:
 
 * [Our solutions](https://codepen.io/collection/vBZLgj)
 
-## **10 Higher Order Functions II**
+## **6-D Higher Order Functions II**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/60f21a8a1990e600048d6976/landing)
 
@@ -310,11 +309,13 @@ Optional Lectures:
 
 * [Our solutions](https://codepen.io/collection/mrVdbK)
 
-## **10 Recursion I**
+## **07 Recursion I**
 
 [Lecture Slides](10-recursion-i/10_Recursion_I.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
+
+<!--
 
 **[Live Lecture](https://youtu.be/EXicYgoQuk8)**
 
@@ -334,7 +335,7 @@ Optional Lectures:
 5. [Iterables](10-recursion-i/E-iterables.js)
 6. [Hints](10-recursion-i/F-hints.js)
 
-## **11 Recursion II**
+## **08 Recursion II**
 
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
@@ -355,9 +356,7 @@ Optional Lectures:
 2. [concatEls](11-recursion-ii/B-concatEls.js)
 3. [sumVals](11-recursion-ii/C-sumVals.js)
 
-## **12 Next Steps**
-
-<!--
+## **09 Next Steps**
 
 **[Live Lecture](https://youtu.be/ymNBN2HWEso)**
 
