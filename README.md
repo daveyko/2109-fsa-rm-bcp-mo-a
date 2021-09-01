@@ -315,8 +315,6 @@ Optional Lectures:
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
 
-<!--
-
 **[Live Lecture](https://youtu.be/EXicYgoQuk8)**
 
 **[Live review](https://youtu.be/23F9wjZgmw0)**
@@ -340,6 +338,8 @@ Optional Lectures:
 [Lecture Slides](11-recursion-ii/11-Recursion-II.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
+
+<!--
 
 **[Live Lecture](https://youtu.be/cLx3AL4UYU4)**
 
