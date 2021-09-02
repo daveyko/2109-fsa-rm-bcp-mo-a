@@ -315,9 +315,9 @@ Optional Lectures:
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
 
-**[Live Lecture](https://youtu.be/EXicYgoQuk8)**
+**[Live Lecture](https://youtu.be/EXicYgoQuk8)** (prior cohort)
 
-**[Live review](https://youtu.be/23F9wjZgmw0)**
+**[Live review](https://youtu.be/23F9wjZgmw0)** (prior cohort)
 
 ### Notes
 
@@ -339,14 +339,13 @@ Optional Lectures:
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
 
-<!--
+**[Live Lecture](https://youtu.be/crFAmNiIKC4)**
 
-**[Live Lecture](https://youtu.be/cLx3AL4UYU4)**
-
-**[Live Review](https://youtu.be/jyYajprqdJ4)**
+**[Live Review](https://youtu.be/0qBzhmKKWjc)**
 
 ### Notes
 
+* [2108 solutions](https://codepen.io/collection/VYrmWk)
 * [Our solutions](https://codepen.io/collection/GoJoRb)
 * [Solutions w/ Harry](https://codepen.io/collection/xKKQZk)
 
@@ -357,6 +356,8 @@ Optional Lectures:
 3. [sumVals](11-recursion-ii/C-sumVals.js)
 
 ## **09 Next Steps**
+
+<!--
 
 **[Live Lecture](https://youtu.be/ymNBN2HWEso)**
 
