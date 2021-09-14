@@ -1,4 +1,4 @@
-# 2108-FSA-RM-BCP-MO-B
+# 2109-FSA-RM-BCP-MO-A
 
 Hello! This is where Harry and David will put the material for BCP. It will be updated after every class. If any of the links don't work don't hesitate to slack message and let us know.
 
@@ -59,9 +59,9 @@ Optional Lectures:
 
 [Tidy Code Slides](01-tidy-code/01_IntroductionAndTidyCode.pdf)
 
-**[Live Lecture](https://youtu.be/a0B7-jy5OvY)**
+**[Live Lecture](https://youtu.be/a0B7-jy5OvY)** (prior cohort)
 
-**[Live Review](https://youtu.be/w547htSLqDc)**
+**[Live Review](https://youtu.be/w547htSLqDc)** (prior cohort)
 
 ### Notes
 
@@ -74,6 +74,8 @@ Optional Lectures:
 [Loops Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
 [Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/R9rYnk65dyg)** (prior cohort)
 
