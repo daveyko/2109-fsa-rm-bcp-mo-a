@@ -73,16 +73,15 @@ Optional Lectures:
 
 [Loops Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/landing)
 
-[Loops & Debugging Slides](00-slides/02-Loops-and-Debugging.pdf)
+[Loops & Debugging Slides](02-loops-and-debugging/02-Loops-and-Debugging.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/Rgu6aKLPp70)**
 
-**[Live Lecture](https://youtu.be/R9rYnk65dyg)** (prior cohort)
-
-**[Live Review](https://youtu.be/NbaYSHNKt2Q)** (prior cohort)
+**[Live Review](https://youtu.be/Gjbm85s9PAI)**
 
 ### Notes
 
+* [2109 Loops Solutions](https://codepen.io/collection/VYrBWZ)
 * [Loops Solutions w/ Harry](https://codepen.io/collection/dbbpQd)
 
 [Full Notes](02-loops-and-debugging)
@@ -98,6 +97,8 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/landing)
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/F2bCaeR7Mb4)**
 
