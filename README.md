@@ -98,9 +98,17 @@ Optional Lectures:
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
+**[Live Lecture pt. 1](https://youtu.be/R8j0ZzWv4Uk)**
+
+**[Live Lecture pt. 2](https://youtu.be/o4MpLwifVGA)**
+
+<!--
+
 **[Live Lecture](https://youtu.be/F2bCaeR7Mb4)** (prior cohort)
 
 **[Live Review](https://youtu.be/1j5pJfoT-qk)** (prior cohort)
+
+-->
 
 ### Notes
 
@@ -108,6 +116,7 @@ Optional Lectures:
 * [Alternative Types Solutions w/ Harry](https://codepen.io/collection/jbbkoO)
 * [2108 Solutions w/ Harry](https://codepen.io/collection/aMbxkb)
 * [Extra Credit](03-type-coercion-and-truthiness/extra-credit.js)
+* [Live Lecture](https://youtu.be/F2bCaeR7Mb4) & [Live Review](https://youtu.be/1j5pJfoT-qk) (prior cohort)
 
 ## **P1 Caesar Cypher**
 
