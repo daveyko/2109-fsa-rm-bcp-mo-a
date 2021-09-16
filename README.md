@@ -98,11 +98,9 @@ Optional Lectures:
 
 [Lecture Slides](03-type-coercion-and-truthiness/03-Coercion-and-Truthiness.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/F2bCaeR7Mb4)** (prior cohort)
 
-**[Live Lecture](https://youtu.be/F2bCaeR7Mb4)**
-
-**[Live Review](https://youtu.be/1j5pJfoT-qk)**
+**[Live Review](https://youtu.be/1j5pJfoT-qk)** (prior cohort)
 
 ### Notes
 
@@ -117,7 +115,9 @@ Optional Lectures:
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-**[Live Lecture](https://youtu.be/nRSler1WJbs)** (prior cohort)
+<!--
+
+**[Live Lecture](https://youtu.be/nRSler1WJbs)**
 
 **[Live Review](https://youtu.be/7Geko1AcmME)**
 
