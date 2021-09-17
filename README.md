@@ -124,14 +124,13 @@ Optional Lectures:
 
 [Lecture Slides](04-reacto/04.BCP-REACTO.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/StZUhZEgNw0)**
 
-**[Live Lecture](https://youtu.be/nRSler1WJbs)**
-
-**[Live Review](https://youtu.be/7Geko1AcmME)**
+**[Live Review](https://youtu.be/P7K8N3Qusqg)**
 
 ### Notes
 
+* [2109 Solutions](https://codepen.io/habst/pen/wvepOLq?editors=0010)
 * [Fergal's Caesar Cypher Solution](04-reacto/fergal-solution.js)
 * [Harry's solutions](https://codepen.io/habst/pen/LYWxdwV?editors=0010)
 * [vowelCount solution](https://codepen.io/habst/pen/BaWpYGy)
@@ -143,6 +142,8 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/landing)
 
 [Lecture Slides](05-scope/05_Scope.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/ptUCDdgz6_g)**
 
