@@ -143,8 +143,6 @@ Optional Lectures:
 
 [Lecture Slides](05-scope/05_Scope.pdf)
 
-<!--
-
 **[Live Lecture](https://youtu.be/ptUCDdgz6_g)**
 
 **[Live Review](https://youtu.be/hk2mv6ERPIY)**
@@ -170,6 +168,8 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/landing)
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/i-AU0ZV4zi4)**
 
