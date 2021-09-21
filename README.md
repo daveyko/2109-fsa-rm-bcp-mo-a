@@ -143,9 +143,9 @@ Optional Lectures:
 
 [Lecture Slides](05-scope/05_Scope.pdf)
 
-**[Live Lecture](https://youtu.be/ptUCDdgz6_g)**
+**[Live Lecture](https://youtu.be/ptUCDdgz6_g)** (prior cohort)
 
-**[Live Review](https://youtu.be/hk2mv6ERPIY)**
+**[Live Review](https://youtu.be/hk2mv6ERPIY)** (prior cohort)
 
 ### Notes
 
