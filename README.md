@@ -169,15 +169,14 @@ Optional Lectures:
 
 [Lecture Slides](06-arrays-I/06_Arrays_I.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/fRtOZeI7NFA)**
 
-**[Live Lecture](https://youtu.be/i-AU0ZV4zi4)**
-
-**[Live Review](https://youtu.be/FKe9FXXkAgI)** (prior cohort)
+**[Live Review](https://youtu.be/e26TE2Rw9fw)**
 
 ### Notes
 
-* [Our Solutions](https://codepen.io/collection/GopMNY)
+* [Our Solutions](https://codepen.io/collection/rxNgMx)
+* [2108 Solutions](https://codepen.io/collection/GopMNY)
 * [Alt Arrays I Solutions](https://codepen.io/collection/pggdPL)
 * [Other Examples](https://replit.com/join/cztqkwdk-kuroii)
 
@@ -197,6 +196,8 @@ Optional Lectures:
 12. [Array.slice()](06-arrays-I/L-array-slice.js)
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
+
+<!--
 
 ## **05 Arrays II**
 
