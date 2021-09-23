@@ -197,8 +197,6 @@ Optional Lectures:
 13. [Array.includes()](06-arrays-I/M-array-includes.js)
 14. [Array.reverse()](06-arrays-I/N-array-reverse.js)
 
-<!--
-
 ## **05 Arrays II**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/landing)
@@ -214,6 +212,8 @@ Optional Lectures:
 * [2108 Arrays II solutions](https://codepen.io/collection/wawBWZ)
 * [2107 Arrays II solutions](https://codepen.io/collection/KpwZqv)
 * [Harry's Other Arrays II solutions](https://codepen.io/collection/kNNxwj)
+
+<!--
 
 ## **P2 Sudoku Validator**
 
