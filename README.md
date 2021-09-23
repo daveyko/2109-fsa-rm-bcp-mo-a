@@ -203,9 +203,9 @@ Optional Lectures:
 
 [Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
 
-**[Live Lecture](https://youtu.be/cQx124MPZPY)**
+**[Live Lecture](https://youtu.be/cQx124MPZPY)** (prior cohort)
 
-**[Live Review](https://youtu.be/pzzvjl8cRE4)**
+**[Live Review](https://youtu.be/pzzvjl8cRE4)** (prior cohort)
 
 ### Notes
 
