@@ -213,22 +213,23 @@ Optional Lectures:
 * [2107 Arrays II solutions](https://codepen.io/collection/KpwZqv)
 * [Harry's Other Arrays II solutions](https://codepen.io/collection/kNNxwj)
 
-<!--
-
 ## **P2 Sudoku Validator**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/landing)
 
 [Lecture Slides](08-sudoku-validator/08.BCP-Sudoku.pdf)
 
-**[Live Lecture](https://youtu.be/5efTyma0UvM)**
+**[Live Lecture](https://youtu.be/9sLiq8wT-EA)**
 
-**[Review](https://youtu.be/q8zFfPfdKmQ)**
+**[Live Review](https://youtu.be/jIk7JG2HbVs)**
 
 ### Notes
 
 * [Test Specs](https://codepen.io/habst/pen/RwozgPX?editors=0010)
-* [Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
+* [2109 Solutions](https://codepen.io/habst/pen/ZEyMxqE?editors=0010)
+* [Other Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
+
+<!--
 
 ## **06 Objects**
 
