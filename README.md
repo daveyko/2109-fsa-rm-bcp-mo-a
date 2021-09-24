@@ -203,15 +203,14 @@ Optional Lectures:
 
 [Lecture Slides](07-arrays-ii/07.Arrays-II.pdf)
 
-**[Live Lecture](https://youtu.be/cQx124MPZPY)** (prior cohort)
-
-**[Live Review](https://youtu.be/pzzvjl8cRE4)** (prior cohort)
+**[Live Lecture](https://youtu.be/Ogl2sbHNfvI)**
 
 ### Notes
 
 * [2108 Arrays II solutions](https://codepen.io/collection/wawBWZ)
 * [2107 Arrays II solutions](https://codepen.io/collection/KpwZqv)
 * [Harry's Other Arrays II solutions](https://codepen.io/collection/kNNxwj)
+* 2108 [Live Lecture](https://youtu.be/cQx124MPZPY) & [Live Review](https://youtu.be/pzzvjl8cRE4)
 
 ## **P2 Sudoku Validator**
 
