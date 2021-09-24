@@ -229,13 +229,13 @@ Optional Lectures:
 * [2109 Solutions](https://codepen.io/habst/pen/ZEyMxqE?editors=0010)
 * [Other Solutions](https://codepen.io/habst/pen/gOmGbaN?editors=0010)
 
-<!--
-
 ## **06 Objects**
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/landing)
 
 [Lecture Slides](09-objects/09_Objects.pdf)
+
+<!--
 
 **[Live Lecture](https://youtu.be/cCI333nlczw)**
 
