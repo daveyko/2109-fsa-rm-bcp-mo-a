@@ -234,11 +234,9 @@ Optional Lectures:
 
 [Lecture Slides](09-objects/09_Objects.pdf)
 
-<!--
+**[Live Lecture](https://youtu.be/cCI333nlczw)** (prior cohort)
 
-**[Live Lecture](https://youtu.be/cCI333nlczw)**
-
-**[Live review](https://youtu.be/PeB8zyXqnW0)**
+**[Live review](https://youtu.be/PeB8zyXqnW0)** (prior cohort)
 
 ### General Notes
 
@@ -328,7 +326,7 @@ Optional Lectures:
 [Lecture Slides](10-recursion-i/10_Recursion_I.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
-
+<!--
 **[Live Lecture](https://youtu.be/EXicYgoQuk8)** (prior cohort)
 
 **[Live review](https://youtu.be/23F9wjZgmw0)** (prior cohort)
