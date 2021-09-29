@@ -234,7 +234,7 @@ Optional Lectures:
 
 [Lecture Slides](09-objects/09_Objects.pdf)
 
-**[Live Lecture](https://www.youtube.com/watch?v=fThrK1Hmf2w)
+**[Live Lecture](https://www.youtube.com/watch?v=fThrK1Hmf2w)**
 
 **[Live review](https://youtu.be/PeB8zyXqnW0)** (prior cohort)
 
