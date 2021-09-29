@@ -326,14 +326,15 @@ Optional Lectures:
 [Lecture Slides](10-recursion-i/10_Recursion_I.pdf)
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/landing)
-<!--
-**[Live Lecture](https://youtu.be/EXicYgoQuk8)** (prior cohort)
 
-**[Live review](https://youtu.be/23F9wjZgmw0)** (prior cohort)
+**[Live Lecture](https://youtu.be/-wmpbA4yjq4)** (prior cohort)
+
+**[Live review](https://youtu.be/4qur5Tp_4ZU)** (prior cohort)
 
 ### Notes
 
-* [Our solutions](https://codepen.io/collection/rxVObw)
+* [2109 Solutions](https://codepen.io/collection/rxaaOp)
+* [2108 solutions](https://codepen.io/collection/rxVObw)
 * [Harry's One-Line Solutions](https://codepen.io/collection/MggPbv)
 
 [Full Notes](10-recursion-i)
@@ -351,6 +352,7 @@ Optional Lectures:
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
 
+<!--
 **[Live Lecture](https://youtu.be/crFAmNiIKC4)**
 
 **[Live Review](https://youtu.be/0qBzhmKKWjc)**
