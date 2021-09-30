@@ -236,7 +236,7 @@ Optional Lectures:
 
 **[Live Lecture](https://www.youtube.com/watch?v=fThrK1Hmf2w)**
 
-**[Live review](https://youtu.be/PeB8zyXqnW0)** (prior cohort)
+**[Live Review](https://youtu.be/PeB8zyXqnW0)** (prior cohort)
 
 ### General Notes
 
@@ -329,7 +329,7 @@ Optional Lectures:
 
 **[Live Lecture](https://youtu.be/-wmpbA4yjq4)** (prior cohort)
 
-**[Live review](https://youtu.be/4qur5Tp_4ZU)** (prior cohort)
+**[Live Review](https://youtu.be/4qur5Tp_4ZU)** (prior cohort)
 
 ### Notes
 
@@ -352,10 +352,9 @@ Optional Lectures:
 
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
 
-<!--
 **[Live Lecture](https://youtu.be/EjAkDIFvOPQ)**
 
-**[Live Review](https://youtu.be/0qBzhmKKWjc)**
+**[Live Review](https://youtu.be/0qBzhmKKWjc)** (prior cohort)
 
 ### Notes
 
