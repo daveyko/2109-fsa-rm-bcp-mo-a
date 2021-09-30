@@ -353,7 +353,7 @@ Optional Lectures:
 [Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/landing)
 
 <!--
-**[Live Lecture](https://youtu.be/crFAmNiIKC4)**
+**[Live Lecture](https://youtu.be/EjAkDIFvOPQ)**
 
 **[Live Review](https://youtu.be/0qBzhmKKWjc)**
 
