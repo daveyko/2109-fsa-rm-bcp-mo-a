@@ -362,12 +362,6 @@ Optional Lectures:
 * [Our solutions](https://codepen.io/collection/GoJoRb)
 * [Solutions w/ Harry](https://codepen.io/collection/xKKQZk)
 
-[Full Notes](11-recursion-ii)
-
-1. [logsAnArray](11-recursion-ii/A-logsAnArray.js)
-2. [concatEls](11-recursion-ii/B-concatEls.js)
-3. [sumVals](11-recursion-ii/C-sumVals.js)
-
 ## **09 Next Steps**
 
 <!--
