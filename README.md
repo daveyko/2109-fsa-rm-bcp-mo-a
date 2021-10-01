@@ -364,10 +364,14 @@ Optional Lectures:
 
 ## **09 Next Steps**
 
-<!--
+[Workshop & Solutions](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/landing)
 
-**[Live Lecture](https://youtu.be/ymNBN2HWEso)**
+**[Live Lecture](https://youtu.be/io3DaOI6q80)**
 
--->
+**[Live Review](https://youtu.be/23bQPrv-1kw)**
+
+### Notes
+
+* [2109 solutions](https://replit.com/@hpr/LastSteps)
 
 *Credit to [@arielahdoot](https://github.com/arielahdoot/2103-FSA-RM-BCP-MO-A) for the repository template*
