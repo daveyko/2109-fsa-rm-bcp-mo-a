@@ -368,7 +368,7 @@ Optional Lectures:
 
 **[Live Lecture](https://youtu.be/io3DaOI6q80)**
 
-**[Live Review](https://youtu.be/23bQPrv-1kw)**
+**[Live Review](https://youtu.be/_h896dNGflk)**
 
 ### Notes
 
